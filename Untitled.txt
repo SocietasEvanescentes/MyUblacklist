@@ -1,48 +1,48 @@
-*://answers.yahoo.com/*
+*://*.answers.yahoo.com/*
 
-*://9to5mac.com/*
+*://*.9to5mac.com/*
 
-*://answers.microsoft.com/*
+*://*.answers.microsoft.com/*
 
-*://yepdownload.com/*
+*://*.yepdownload.com/*
 
-*://softfamous.com/*
+*://*.softfamous.com/*
 
-*://leftsider.en.uptodown.com/*
+*://*.leftsider.en.uptodown.com/*
 
-*://docs.google.com/*
+*://*.docs.google.com/*
 
-*://www.softpedia.com/*
+*://*.www.softpedia.com/*
 
-*://leftsider.en.softonic.com/*
+*://*.leftsider.en.softonic.com/*
 
-*://prosoftpedia.com/*
+*://*.prosoftpedia.com/*
 
-*://forums.macrumors.com/*
+*://*.forums.macrumors.com/*
 
-*://apps.apple.com/*
+*://*.apps.apple.com/*
 
-*://www.pinterest.com/*
+*://*.www.pinterest.com/*
 
-*://www.pinterest.de/*
+*://*.www.pinterest.de/*
 
-*://www.pinterest.com.mx/*
+*://*.www.pinterest.com.mx/*
 
-*://uuyn.bioplan-fuerstenwalde.de/*
+*://*.uuyn.bioplan-fuerstenwalde.de/*
 
-*://support.knowbe4.com/*
+*://*.support.knowbe4.com/*
 
-*://wqoh.bioplan-fuerstenwalde.de/*
+*://*.wqoh.bioplan-fuerstenwalde.de/*
 
-*://help.pluralsight.com/*
+*://*.help.pluralsight.com/*
 
-*://developer.chrome.com/*
+*://*.developer.chrome.com/*
 
-*://twentytwowords.com/*
+*://*.twentytwowords.com/*
 
-*://news.amomama.com/*
+*://*.news.amomama.com/*
 
-*://www.quora.com/*
+*://*.www.quora.com/*
 
 
 
