@@ -28,3 +28,4 @@
 *://empowerenergy.co.uk/*
 *://borncity.com/*
 *://zapier.com/*
+*://.wordpress.com/*
