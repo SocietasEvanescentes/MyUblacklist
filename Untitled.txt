@@ -29,3 +29,4 @@
 *://borncity.com/*
 *://zapier.com/*
 *://.wordpress.com/*
+*://www.forbes.com/*
