@@ -30,3 +30,4 @@
 *://zapier.com/*
 *://.wordpress.com/*
 *://www.forbes.com/*
+*://www.msn.com/*
