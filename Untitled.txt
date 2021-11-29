@@ -32,3 +32,4 @@
 *://*.www.forbes.com/*
 *://*.www.msn.com/*
 *://*.www.washingtonexaminer.com/*
+*://*.https://support.google.com/*
