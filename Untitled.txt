@@ -34,3 +34,7 @@
 *://*.www.washingtonexaminer.com/*
 *://*.https://support.google.com/*
 *://download.cnet.com/*
+*://www.imore.com/*
+*://www.windowscentral.com/*
+*://www.androidcentral.com/*
+*://www.androidpolice.com/*
