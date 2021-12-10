@@ -33,3 +33,4 @@
 *://*.www.msn.com/*
 *://*.www.washingtonexaminer.com/*
 *://*.https://support.google.com/*
+*://download.cnet.com/*
