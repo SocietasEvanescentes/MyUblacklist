@@ -45,3 +45,4 @@
 *://microsoftedge.microsoft.com/*
 *://addons.opera.com/*
 *://addons.mozilla.org/*
+*://*.facebook.com/*
