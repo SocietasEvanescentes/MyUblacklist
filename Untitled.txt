@@ -42,7 +42,8 @@
 *://*.softonic.nl/*
 *://*.wizcase.com/*
 *://*.cnet.com/*
-*://microsoftedge.microsoft.com/*
-*://addons.opera.com/*
-*://addons.mozilla.org/*
+*://*.microsoftedge.microsoft.com/*
+*://*.addons.opera.com/*
+*://*.addons.mozilla.org/*
 *://*.facebook.com/*
+*://*.support.microsoft.com/*
