@@ -47,3 +47,4 @@
 *://*.addons.mozilla.org/*
 *://*.facebook.com/*
 *://*.support.microsoft.com/*
+*://*.www.howtopronounce.com/*
