@@ -48,3 +48,4 @@
 *://*.facebook.com/*
 *://*.support.microsoft.com/*
 *://*.www.howtopronounce.com/*
+*://*.www.linkedin.com/*
