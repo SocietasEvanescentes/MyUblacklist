@@ -49,3 +49,4 @@
 *://*.support.microsoft.com/*
 *://*.www.howtopronounce.com/*
 *://*.www.linkedin.com/*
+*://discussions.apple.com/*
