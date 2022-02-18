@@ -50,3 +50,4 @@
 *://*.www.howtopronounce.com/*
 *://*.www.linkedin.com/*
 *://discussions.apple.com/*
+*://*.www.change.org/*
