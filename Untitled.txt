@@ -1,4 +1,5 @@
 *://*.answers.yahoo.com/*
+*://*.yahoo.com/*
 *://*.9to5mac.com/*
 *://*.answers.microsoft.com/*
 *://*.yepdownload.com/*
