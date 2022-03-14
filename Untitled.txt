@@ -52,3 +52,4 @@
 *://*.www.linkedin.com/*
 *://discussions.apple.com/*
 *://*.www.change.org/*
+*://*.www.crx4chrome.com/*
