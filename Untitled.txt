@@ -54,3 +54,4 @@
 *://*.www.change.org/*
 *://*.www.crx4chrome.com/*
 *://*.www.lifehacker.com/*
+*://*.www.lifehacker.com/*
