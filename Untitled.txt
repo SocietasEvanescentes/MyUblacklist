@@ -53,3 +53,4 @@
 *://discussions.apple.com/*
 *://*.www.change.org/*
 *://*.www.crx4chrome.com/*
+*://*.www.lifehacker.com/*
