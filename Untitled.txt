@@ -55,3 +55,4 @@
 *://*.www.crx4chrome.com/*
 *://*.www.lifehacker.com/*
 *://*.www.lifehacker.com/*
+*://support.google.com/*
