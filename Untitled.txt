@@ -61,3 +61,4 @@
 *://ifttt.com/*
 *://www.skype.com/*
 *://developer.amazon.com/*
+*://*.www.mozilla.org/*
