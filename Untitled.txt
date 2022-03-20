@@ -58,3 +58,4 @@
 *://*.www.lifehacker.com/*
 *://support.google.com/*
 *://www.alexa.com/*
+*://ifttt.com/*
