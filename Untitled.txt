@@ -60,3 +60,4 @@
 *://www.alexa.com/*
 *://ifttt.com/*
 *://www.skype.com/*
+*://developer.amazon.com/*
