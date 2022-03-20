@@ -57,3 +57,4 @@
 *://*.www.lifehacker.com/*
 *://*.www.lifehacker.com/*
 *://support.google.com/*
+*://www.alexa.com/*
