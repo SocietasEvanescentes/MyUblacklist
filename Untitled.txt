@@ -9,6 +9,7 @@
 *://*.www.softpedia.com/*
 *://*.leftsider.en.softonic.com/*
 *://*.prosoftpedia.com/*
+*://*.downloads.digitaltrends.com/*
 *://*.forums.macrumors.com/*
 *://*.www.pinterest.com/*
 *://*.www.pinterest.de/*
