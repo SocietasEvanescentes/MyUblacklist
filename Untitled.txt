@@ -63,3 +63,4 @@
 *://developer.amazon.com/*
 *://*.www.mozilla.org/*
 *://*.www.firefox.com/*
+*://x-callback-url.com/*
