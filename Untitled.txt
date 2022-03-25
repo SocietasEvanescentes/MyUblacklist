@@ -64,3 +64,4 @@
 *://*.www.mozilla.org/*
 *://*.www.firefox.com/*
 *://x-callback-url.com/*
+*://support.mozilla.org/*
