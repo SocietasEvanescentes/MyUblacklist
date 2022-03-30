@@ -67,3 +67,4 @@
 *://support.mozilla.org/*
 *://edgeaddons.com/*
 *://www.barnesandnoble.com/*
+*://powerautomate.microsoft.com/*
