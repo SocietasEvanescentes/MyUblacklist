@@ -68,3 +68,4 @@
 *://edgeaddons.com/*
 *://www.barnesandnoble.com/*
 *://powerautomate.microsoft.com/*
+*://luminarypodcasts.com/*
