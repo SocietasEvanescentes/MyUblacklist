@@ -69,3 +69,4 @@
 *://www.barnesandnoble.com/*
 *://powerautomate.microsoft.com/*
 *://luminarypodcasts.com/*
+*://*.www.instagram.com/*
