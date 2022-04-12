@@ -25,5 +25,8 @@
 *://*.fox13memphis.com/*
 *://*.foxcarolina.com/*
 *://*.fox40.com/*
-*://video.foxnews.com/*
-
+*://*.video.foxnews.com/*
+*://*.nbcnews.com/*
+*://*.yahoo.com/*
+*://*.nypost.com/*
+*://*.thehill.com/*
