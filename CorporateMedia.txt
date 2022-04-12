@@ -1,4 +1,5 @@
 *://*.fox.com/*
+*://*.foxnews.com/*
 *://*.cnn.com/*
 *://*.fox10phoenix.com/*
 *://*.fox4news.com/*
