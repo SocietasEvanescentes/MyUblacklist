@@ -31,3 +31,4 @@
 *://*.nypost.com/*
 *://*.thehill.com/*
 *://*.linkedin.com/*
+*://*.breitbart.com/*
