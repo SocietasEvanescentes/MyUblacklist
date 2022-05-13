@@ -1,1 +1,2 @@
 *://*.urbandictionary.com/*
+*://*.quora.com/*
