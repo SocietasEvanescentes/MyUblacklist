@@ -32,3 +32,4 @@
 *://*.thehill.com/*
 *://*.linkedin.com/*
 *://*.breitbart.com/*
+*://*.forbes.com/*
