@@ -1,2 +1,4 @@
 *://*.urbandictionary.com/*
 *://*.quora.com/*
+*://*.netflix.com/*
+*://*.hulu.com/*
