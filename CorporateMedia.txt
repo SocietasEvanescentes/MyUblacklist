@@ -33,3 +33,4 @@
 *://*.linkedin.com/*
 *://*.breitbart.com/*
 *://*.forbes.com/*
+*://*.buzzfeed.com/*
