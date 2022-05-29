@@ -1,4 +1,3 @@
-*://addons.mozilla.org/*
 *://addons.opera.com/*
 *://microsoftedge.microsoft.com/*
 *://play.google.com/*
@@ -9,3 +8,4 @@ title/Microsoft Store Web/i
 *://*.softpedia.com/*
 *://*.firefox.com/*
 *://*.producthunt.com/*
+*://chrome.google.com/*
