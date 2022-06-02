@@ -3,9 +3,10 @@
 *://play.google.com/*
 title/Microsoft Store/i
 title/Microsoft Store Web/i
-*://*.mozilla.org/*
 *://*.softonic.com/*
 *://*.softpedia.com/*
 *://*.firefox.com/*
 *://*.producthunt.com/*
 *://ifttt.com/*
+*://chrome.google.com/*
+title/APK/i
