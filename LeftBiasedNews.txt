@@ -1,1 +1,1 @@
-
+!! This list is to remove heavy left biased from Google and other search engines. This is for myself. In an effort to remove biased news (both left and right viewpoints) from influencing, and to make sure that I am getting the most accurate, unbiased news. If this is something that interests you, check out https://drmikecrowe.github.io/mbfcext/ for a browser addon. 
