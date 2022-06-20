@@ -35,3 +35,4 @@
 *://*.forbes.com/*
 *://*.buzzfeed.com/*
 *://*.dailywire.com/*
+*://*.republicworld.com/*
