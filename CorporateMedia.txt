@@ -1,3 +1,4 @@
+*://*.yahoo.com/*
 *://*.fox.com/*
 *://*.foxnews.com/*
 *://*.cnn.com/*
