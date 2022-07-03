@@ -2,3 +2,4 @@
 *://*.quora.com/*
 *://*.netflix.com/*
 *://*.hulu.com/*
+*://*.amazon.com/*
