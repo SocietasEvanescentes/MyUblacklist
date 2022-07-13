@@ -3,3 +3,4 @@
 *://*.netflix.com/*
 *://*.hulu.com/*
 *://*.amazon.com/*
+*://*.wikihow.com/*
