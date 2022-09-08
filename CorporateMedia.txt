@@ -39,3 +39,4 @@
 *://*.republicworld.com/*
 *://*.imore.com/*
 *://*.redmondpie.com/*
+*://*.wccftech.com/*
