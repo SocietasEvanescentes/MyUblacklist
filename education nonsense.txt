@@ -1,3 +1,4 @@
 *://*.chegg.com/*
 *://*.letsanswers.com/*
 *://*.coursehero.com/*
+*://*.study.com/*
