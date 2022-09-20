@@ -2,3 +2,4 @@
 *://*.letsanswers.com/*
 *://*.coursehero.com/*
 *://*.study.com/*
+*://*.litcharts.com/*
