@@ -40,3 +40,6 @@
 *://*.imore.com/*
 *://*.redmondpie.com/*
 *://*.wccftech.com/*
+*://*.imore.com/*
+*://*.windowscentral.com/*
+*://*.androidcentral.com/*
