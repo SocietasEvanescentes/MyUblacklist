@@ -43,3 +43,4 @@
 *://*.imore.com/*
 *://*.windowscentral.com/*
 *://*.androidcentral.com/*
+*://www.msn.com/*
