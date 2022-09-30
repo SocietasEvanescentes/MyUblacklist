@@ -44,3 +44,4 @@
 *://*.windowscentral.com/*
 *://*.androidcentral.com/*
 *://www.msn.com/*
+*://www.theverge.com/*
