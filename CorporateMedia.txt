@@ -40,8 +40,15 @@
 *://*.imore.com/*
 *://*.redmondpie.com/*
 *://*.wccftech.com/*
-*://*.imore.com/*
 *://*.windowscentral.com/*
 *://*.androidcentral.com/*
 *://www.msn.com/*
 *://www.theverge.com/*
+*://www.anandtech.com/*
+*://mobilechoiceuk.com/*
+*://moderndad.com/*
+*://*.technobuffalo.com/*
+*://*.techradar.com/*
+*://*.thrifter.com/*
+*://*.tomsguide.com/*
+*://*.total911.com/*
