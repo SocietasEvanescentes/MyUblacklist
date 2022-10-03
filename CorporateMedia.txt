@@ -54,3 +54,4 @@
 *://*.total911.com/*
 *://*.neowin.net/*
 *://techcrunch.com/*
+*://engadget.com/*
