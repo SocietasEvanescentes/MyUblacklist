@@ -52,3 +52,4 @@
 *://*.thrifter.com/*
 *://*.tomsguide.com/*
 *://*.total911.com/*
+*://*.neowin.net/*
