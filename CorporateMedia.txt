@@ -53,3 +53,4 @@
 *://*.tomsguide.com/*
 *://*.total911.com/*
 *://*.neowin.net/*
+*://techcrunch.com/*
