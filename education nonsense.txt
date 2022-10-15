@@ -3,3 +3,7 @@
 *://*.coursehero.com/*
 *://*.study.com/*
 *://*.litcharts.com/*
+*://*.primestudyguides.com/*
+*://*.shmoop.com/*
+*://*.libguides.com/*
+*://*.palomar.edu/*
