@@ -7,3 +7,4 @@
 *://*.shmoop.com/*
 *://*.libguides.com/*
 *://*.palomar.edu/*
+*://*.scribd.com/*
