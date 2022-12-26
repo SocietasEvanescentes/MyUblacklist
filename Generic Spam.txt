@@ -4,3 +4,4 @@
 *://*.hulu.com/*
 *://*.amazon.com/*
 *://*.wikihow.com/*
+*://www.creditkarma.com/*
