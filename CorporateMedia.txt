@@ -42,7 +42,7 @@
 *://*.wccftech.com/*
 *://*.windowscentral.com/*
 *://*.androidcentral.com/*
-*://www.msn.com/*
+*://*.msn.com/*
 *://www.theverge.com/*
 *://www.anandtech.com/*
 *://mobilechoiceuk.com/*
