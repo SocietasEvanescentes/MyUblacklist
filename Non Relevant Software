@@ -26,3 +26,7 @@ title/workspace/i
 title/Android/i
 *://*.twitter.com/*
 *://*.userstyles.org/*
+*://*.adobe.com/*
+*://*.adobe.design/*
+*://*.adobepress.com/*
+title/adobe/i
