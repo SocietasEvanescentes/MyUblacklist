@@ -55,3 +55,4 @@
 *://*.neowin.net/*
 *://techcrunch.com/*
 *://engadget.com/*
+*://www.newsweek.com/*
