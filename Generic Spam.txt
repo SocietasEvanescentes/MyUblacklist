@@ -5,3 +5,4 @@
 *://*.amazon.com/*
 *://*.wikihow.com/*
 *://www.creditkarma.com/*
+*://*.healthline.com/*
