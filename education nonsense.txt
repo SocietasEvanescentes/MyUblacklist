@@ -8,3 +8,7 @@
 *://*.libguides.com/*
 *://*.palomar.edu/*
 *://*.scribd.com/*
+*://*.grammarly.com/*
+*://*.quetext.com/*
+*://*.smallseotools.com/*
+*://*.copyleaks.com/*
