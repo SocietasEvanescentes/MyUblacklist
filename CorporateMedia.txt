@@ -56,3 +56,5 @@
 *://techcrunch.com/*
 *://engadget.com/*
 *://www.newsweek.com/*
+*://*.oann.com/*
+*://*.newsmaxtv.com/*
