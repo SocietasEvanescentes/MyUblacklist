@@ -6,3 +6,4 @@
 *://*.wikihow.com/*
 *://www.creditkarma.com/*
 *://*.healthline.com/*
+*://*.trakt.tv/*
