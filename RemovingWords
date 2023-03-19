@@ -1,3 +1,7 @@
+! REGEX
+! The following Regex will block any results that aren't Latin/Latin accented. For example, Açaí *shouldn't* be blocked.
+title/^[a-zA-ZÀ-ÖØ-öø-ÿ \-\']+$/
+
 title/trump/i
 title/elon musk/i
 title/elon/i
