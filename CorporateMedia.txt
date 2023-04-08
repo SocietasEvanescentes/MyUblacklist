@@ -58,3 +58,4 @@
 *://www.newsweek.com/*
 *://*.oann.com/*
 *://*.newsmaxtv.com/*
+*://*.mashable.com/*
