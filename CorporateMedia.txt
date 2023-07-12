@@ -59,3 +59,4 @@
 *://*.oann.com/*
 *://*.newsmaxtv.com/*
 *://*.mashable.com/*
+*://*.vanityfair.com/*
