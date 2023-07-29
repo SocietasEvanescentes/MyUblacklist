@@ -1,0 +1,2 @@
+@1*://en.wikipedia.org/*
+@1*://scholar.google.com/*
