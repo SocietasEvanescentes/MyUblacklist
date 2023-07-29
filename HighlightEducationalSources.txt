@@ -1,2 +1,9 @@
+! Whitelist to make sure these aren't blocked
+@*://*.wikipedia.org/*
+@*://*.scholar.google.com/*
+
+
+! Highlight Below
+
 @1*://en.wikipedia.org/*
 @1*://scholar.google.com/*
