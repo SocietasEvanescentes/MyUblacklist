@@ -1,3 +1,5 @@
+# **Subscribe [Here](https://github.com/SocietasEvanescentes/MyUblacklist/subscribe?name=My%20List&url=https://raw.githubusercontent.com/SocietasEvanescentes/MyUblacklist/simple/OneListToRuleThemAll.txt)**
+
 # What is this
 
 
