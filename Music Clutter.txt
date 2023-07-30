@@ -1,6 +1,0 @@
-*://*.spotify.com/*
-*://*.pandora.com/*
-*://*.tidal.com/*
-*://*.deezer.com/*
-*://*.soundcloud.com/*
-*://music.apple.com/*
