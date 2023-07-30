@@ -1,0 +1,133 @@
+! This list in the "simple" branch is my new list to consolidate all items into one list, with organized comments (such as this one) to group them. This makes it easier to backup, restore, etc. and easier to diagnose issues thay _may_ come up. 
+
+
+! **Highlight Results**: The following highlight search results that match the regex.
+
+! Whitelist to make sure these aren't blocked
+@*://*.wikipedia.org/*
+@*://*.en.m.wikipedia.org/*
+@*://*.scholar.google.com/*
+
+
+! Highlight Below
+@1*://en.wikipedia.org/*
+@1*://en.m.wikipedia.org/*
+@1*://scholar.google.com/*
+
+! =====
+
+! **Educational Paywalls**: The following are blocked due trying to keep public knowledge behind a paywall.
+
+*://*.chegg.com/*
+*://*.letsanswers.com/*
+*://*.coursehero.com/*
+*://*.study.com/*
+*://*.litcharts.com/*
+*://*.primestudyguides.com/*
+*://*.shmoop.com/*
+*://*.libguides.com/*
+*://*.palomar.edu/*
+*://*.scribd.com/*
+*://*.grammarly.com/*
+*://*.quetext.com/*
+*://*.smallseotools.com/*
+*://*.copyleaks.com/*
+
+! =====
+
+! **Removing Results Based On Title**: The following remove search results that match the regex.
+
+! REGEX
+! The following Regex will block any results that aren't Latin/Latin accented. For example, Açaí *shouldn't* be blocked.
+title/^[a-zA-ZÀ-ÖØ-öø-ÿ \-\']+$/
+
+title/vpn/i
+title/trump/i
+title/elon musk/i
+title/elon/i
+title/musk/i
+title/?/i
+title/everything we know/i
+title/who is/i
+title/and why/i
+title/you wont/i
+title/you won't/i
+title/and I am/i
+title/and im/i
+title/and I'm/i
+title/we asked/i
+title/i asked/i
+title/what to know/i
+title/we spoke/i
+title/i spoke/i
+title/we talked/i
+title/I talked/i
+title/here's what/i
+title/now what/i
+title/so we/i
+title/so i/i
+title/revealed/i
+title/reveals/i
+title/could/i
+title/who is/i
+title/what is/i
+title/crack/i
+title/cracked/i
+title/3D Touch/i
+title/iPhone 14/i
+title/stadia/i
+title/black friday/i
+title/cyber monday/i
+title/nvidia/i
+title/intel/i
+title/amd/i
+title/rtx/i
+title/geforce/i
+title/MTG/i
+title/rittenhouse/i
+title/DeSantis/i
+title/Boebert/i
+title/Abbott/i
+title/Twitter/i
+title/spacex/i
+title/tesla/i
+
+! =====
+
+! **Removing Social Media From Search Results**: The following blocks social media links from search results.
+
+*://*.facebook.com/*
+*://*.messenger.com/*
+*://*.twitter.com/*
+*://*.tiktok.com/*
+*://*.instagram.com/*
+*://*.youtube.com/*
+*://*.vimeo.com/*
+*://*.discord.com/*
+*://*.9gag.com/*
+*://about.fb.com/*
+*://www.facebook.com/*
+*://*.linkedin.com/*
+
+! =====
+
+! **Remove Links to Music Services**: The following remove search results that I don't use.
+
+*://*.spotify.com/*
+*://*.pandora.com/*
+*://*.tidal.com/*
+*://*.deezer.com/*
+*://*.soundcloud.com/*
+*://music.amazon.com/*
+
+! =====
+
+! **Goodbye Comrade**: The following remove search results that are under Russian or Belarusian domains.
+
+*://*.ru/*
+*://*.by/*
+
+! =====
+
+
+
