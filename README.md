@@ -1,4 +1,4 @@
-# **Subscribe [Here]([https://github.com/SocietasEvanescentes/MyUblacklist/subscribe?name=My%20List&url=https://raw.githubusercontent.com/SocietasEvanescentes/MyUblacklist/simple/OneListToRuleThemAll.txt](https://iorate.github.io/ublacklist/subscribe?name=My%20List&url=https://raw.githubusercontent.com/SocietasEvanescentes/MyUblacklist/simple/OneListToRuleThemAll.txt))**
+# **Subscribe [Here](https://iorate.github.io/ublacklist/subscribe?name=My%20List&url=https://raw.githubusercontent.com/SocietasEvanescentes/MyUblacklist/simple/OneListToRuleThemAll.txt)**
 
 # What is this
 
