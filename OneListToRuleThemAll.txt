@@ -32,6 +32,7 @@
 *://*.quetext.com/*
 *://*.smallseotools.com/*
 *://*.copyleaks.com/*
+*://books.google.com/*
 
 ! =====
 
