@@ -138,4 +138,5 @@ title/APK/i
 ! **Clickbait Garbage**: The following remove shitty results from shit publications and journalists who are unable to write anything in depth, and resort to tabloid garbage.
 
 *://*.forbes.com/*
+*://www.cnet.com/*
 
