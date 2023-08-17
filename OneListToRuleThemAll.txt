@@ -97,6 +97,10 @@ title/reacts/i
 title/reacted/i
 title/reaction/i
 title/APK/i
+title/how to get/i
+title/for free/i
+title/get it/i
+
 
 ! =====
 
