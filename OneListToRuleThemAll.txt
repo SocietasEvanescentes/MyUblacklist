@@ -145,3 +145,9 @@ title/get it/i
 *://*.cnet.com/*
 *://*.gadgethacks.com/*
 
+! =====
+
+! **Irrelevant Software**: The following remove results from sites of software that I don't use.
+
+*://forum.emclient.com/*
+*://groups.google.com/*
