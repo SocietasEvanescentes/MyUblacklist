@@ -152,3 +152,4 @@ title/get it/i
 *://forum.emclient.com/*
 *://groups.google.com/*
 *://*.softonic.com/*
+*://steamcommunity.com/*
