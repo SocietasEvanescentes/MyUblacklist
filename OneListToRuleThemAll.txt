@@ -153,3 +153,4 @@ title/get it/i
 *://groups.google.com/*
 *://*.softonic.com/*
 *://steamcommunity.com/*
+*://*.norton.com/*
