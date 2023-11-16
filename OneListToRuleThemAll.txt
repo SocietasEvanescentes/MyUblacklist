@@ -132,11 +132,11 @@ title/get it/i
 
 ! =====
 
-! **Goodbye Comrade**: The following remove search results that are under Russian or Belarusian domains.
+! **Goodbye Spam TLDs**: The following remove search results that are under Russian or Belarusian domains along with spam domains using .online
 
 *://*.ru/*
 *://*.by/*
-
+*://*.online/*
 ! =====
 
 ! **Clickbait Garbage**: The following remove shitty results from shit publications and journalists who are unable to write anything in depth, and resort to tabloid garbage.
