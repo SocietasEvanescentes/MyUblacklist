@@ -147,10 +147,11 @@ title/get it/i
 
 ! =====
 
-! **Irrelevant Software**: The following remove results from sites of software that I don't use.
+! **Irrelevant Software and Sites**: 
 
 *://forum.emclient.com/*
 *://groups.google.com/*
 *://*.softonic.com/*
 *://steamcommunity.com/*
 *://*.norton.com/*
+*://*.justanswer.com/*
