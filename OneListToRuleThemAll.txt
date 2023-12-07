@@ -33,7 +33,7 @@
 *://*.smallseotools.com/*
 *://*.copyleaks.com/*
 *://books.google.com/*
-
+*://www.scribbr.com/*
 ! =====
 
 ! **Removing Results Based On Title**: The following remove search results that match the regex.
@@ -144,6 +144,9 @@ title/get it/i
 *://*.forbes.com/*
 *://*.cnet.com/*
 *://*.gadgethacks.com/*
+*://namemc.com/*
+
+*://project-proposal.casual.pm/*
 
 ! =====
 
