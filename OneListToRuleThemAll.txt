@@ -158,3 +158,4 @@ title/get it/i
 *://steamcommunity.com/*
 *://*.norton.com/*
 *://*.justanswer.com/*
+*://support.mozilla.org/*
