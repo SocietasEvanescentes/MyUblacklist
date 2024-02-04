@@ -145,8 +145,8 @@ title/get it/i
 *://*.cnet.com/*
 *://*.gadgethacks.com/*
 *://namemc.com/*
+*://www.buzzfeed.com/*
 
-*://project-proposal.casual.pm/*
 
 ! =====
 
@@ -159,3 +159,4 @@ title/get it/i
 *://*.norton.com/*
 *://*.justanswer.com/*
 *://support.mozilla.org/*
+*://www.disneyplus.com/*
