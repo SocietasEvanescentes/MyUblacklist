@@ -160,3 +160,4 @@ title/get it/i
 *://*.justanswer.com/*
 *://support.mozilla.org/*
 *://www.disneyplus.com/*
+*://.hbo.com/*
