@@ -161,3 +161,6 @@ title/get it/i
 *://support.mozilla.org/*
 *://www.disneyplus.com/*
 *://.hbo.com/*
+*://www.max.com/*
+*://www.hbo.com/*
+*://www.hbomax.com/*
