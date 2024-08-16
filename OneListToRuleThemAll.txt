@@ -102,25 +102,6 @@ title/for free/i
 title/get it/i
 
 
-! =====
-
-! **Removing Social Media From Search Results**: The following blocks social media links from search results.
-
-*://*.facebook.com/*
-*://*.messenger.com/*
-*://*.twitter.com/*
-*://*.tiktok.com/*
-*://*.instagram.com/*
-*://*.youtube.com/*
-*://*.vimeo.com/*
-*://*.discord.com/*
-*://*.9gag.com/*
-*://about.fb.com/*
-*://www.facebook.com/*
-*://*.linkedin.com/*
-
-! =====
-
 ! **Remove Links to Music Services**: The following remove search results that I don't use.
 
 *://*.spotify.com/*
@@ -155,6 +136,7 @@ title/get it/i
 *://forum.emclient.com/*
 *://groups.google.com/*
 *://*.softonic.com/*
+*://*.softpedia.com/*
 *://steamcommunity.com/*
 *://*.norton.com/*
 *://*.justanswer.com/*
