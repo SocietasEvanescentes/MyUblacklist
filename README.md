@@ -1,5 +1,6 @@
 
-![janus](https://github.com/SocietasEvanescentes/MyUblacklist/assets/25782090/9e579554-b80e-48ab-8b06-909b92ca029c)
+
+![icons8-no-240](https://github.com/user-attachments/assets/7a9a7646-3999-4ebd-9239-d5c6c4cc8d03)
 
 
 # **Subscribe [Here](https://iorate.github.io/ublacklist/subscribe?name=My%20List&url=https://raw.githubusercontent.com/SocietasEvanescentes/MyUblacklist/simple/OneListToRuleThemAll.txt)**
