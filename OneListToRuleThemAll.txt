@@ -104,7 +104,7 @@ title/get it/i
 
 ! **Remove Links to Music Services**: The following remove search results that I don't use.
 
-*://*.spotify.com/*
+*://music.apple.com/*
 *://*.pandora.com/*
 *://*.tidal.com/*
 *://*.deezer.com/*
@@ -120,29 +120,56 @@ title/get it/i
 *://*.online/*
 ! =====
 
-! **Clickbait Garbage**: The following remove shitty results from shit publications and journalists who are unable to write anything in depth, and resort to tabloid garbage.
-
-*://*.forbes.com/*
-*://*.cnet.com/*
-*://*.gadgethacks.com/*
-*://namemc.com/*
-*://www.buzzfeed.com/*
+! **Conservative/Tabloid/Exxagerated Garbage**: The following remove shitty results from shit publications and journalists who are unable to write anything in depth, and resort to tabloid garbage.
 
 
-! =====
+*://*.foxnews.com/*
+*://*.newsmax.com/*
+*://*.theblaze.com/*
+*://*.dailywire.com/*
+*://*.dailycaller.com/*
+*://*.nationalreview.com/*
+*://*.breitbart.com/*
+*://*.thefederalist.com/*
+*://*.washingtontimes.com/*
+*://*.washingtonexaminer.com/*
+*://*.townhall.com/*
+*://*.redstate.com/*
+*://*.thegatewaypundit.com/*
+*://*.americanthinker.com/*
+*://*.pjmedia.com/*
+*://*.hotair.com/*
+*://*.westernjournal.com/*
+*://*.theepochtimes.com/*
+*://*.americanconservativemovement.com/*
+*://*.americafirstreport.com/*
+*://*.americangreatness.com/*
+*://*.americanmind.org/*
+*://*.spectator.org/*
+*://*.newstarget.com/*
+*://*.zerohedge.com/*
+*://*.bigleaguepolitics.com/*
+*://*.libertynation.com/*
+*://*.cnsnews.com/*
+*://*.wnd.com/*
+*://*.reason.com/*
+*://*.theamericanconservative.com/*
+*://*.powerlineblog.com/*
+*://*.ace.mu.nu/*
+*://*.legalinsurrection.com/*
+*://*.thepostmillennial.com/*
+*://*.revolver.news/*
+*://*.justthenews.com/*
+*://*.freebeacon.com/*
+*://*.dailysignal.com/*
+*://*.heritage.org/*
+*://*.newsbusters.org/*
+*://*.mrc.org/*
+*://*.lifesitenews.com/*
+*://*.christianpost.com/*
+*://*.thechristianworldview.org/*
+*://*.americanfaith.com/*
+*://*.1819news.com/*
 
-! **Irrelevant Software and Sites**: 
 
-*://forum.emclient.com/*
-*://groups.google.com/*
-*://*.softonic.com/*
-*://*.softpedia.com/*
-*://steamcommunity.com/*
-*://*.norton.com/*
-*://*.justanswer.com/*
-*://support.mozilla.org/*
-*://www.disneyplus.com/*
-*://.hbo.com/*
-*://www.max.com/*
-*://www.hbo.com/*
-*://www.hbomax.com/*
+
